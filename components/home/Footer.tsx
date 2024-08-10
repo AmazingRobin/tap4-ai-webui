@@ -86,7 +86,7 @@ export default function Footer() {
               title={t('contactUs')}
               type='email'
             >
-              {t('contactUs')}
+              {t('contactUs')} - 999
             </a>
           </div>
         </div>
