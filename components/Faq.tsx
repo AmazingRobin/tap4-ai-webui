@@ -20,7 +20,7 @@ export default function Faq() {
       <h1 className='text-center text-2xl font-bold lg:pb-3 lg:text-3xl'>{t('title')}</h1>
       <div className='grid grid-cols-1 gap-5 px-3 lg:grid-cols-2 lg:gap-16 lg:px-0'>
         <div>
-          <TitleItem>{t('1.question')}</TitleItem>
+          <TitleItem>{t('1.question')}-1</TitleItem>
           <ContentItem>{t('1.answer')}</ContentItem>
         </div>
         <div>
