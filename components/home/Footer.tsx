@@ -88,6 +88,13 @@ export default function Footer() {
             >
               {t('contactUs')}
             </a>
+            <a
+              href='http://ovogame.fun'
+              className='whitespace-nowrap text-xs hover:opacity-70 lg:text-sm'
+              title='OvO game'
+            >
+              OvO game
+            </a>
           </div>
         </div>
       </div>
